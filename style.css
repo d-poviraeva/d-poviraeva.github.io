@@ -1,4 +1,6 @@
-body{background-color: aqua;}
+body {
+    background-image: url("");
+    }
 h1{color: red; text-align: center}
 #fmf{color: green;}
 .facs{background-color: yellow;}
