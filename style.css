@@ -1,5 +1,8 @@
 body {
-    background-image: url("");
+    background-image: url('https://psv4.userapi.com/s/v1/d2/WbFld50_mBzXlUtvMAju273R0JZiUVVGdrxWm2FJqLkFiHGIAcXx87uDRKONoin3nZN8oYODnM0rexqG-SyVbFPKBuZHzChtkCveD5Hgc978uas79eGXAtHFcNULvb-PUTFtAAFlyZ3N/bg.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
     }
 h1{color: red; text-align: center}
 #fmf{color: green;}
