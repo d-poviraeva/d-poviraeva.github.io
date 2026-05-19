@@ -39,10 +39,9 @@ header a:hover{
 }
 
 .tree {
-  position: absolute;
-  top: 55%;
-  right: 20%;
-  width: auto;
-  height: auto;
-
-  z-index: 3;
+    position: absolute;
+    top: 55%;
+    right: 20%;
+    width: auto;
+    height: auto;
+    z-index: 3;
