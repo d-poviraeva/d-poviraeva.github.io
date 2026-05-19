@@ -40,7 +40,7 @@ header a:hover{
 
 .tree {
   position: absolute;
-  top: 48%;
+  top: auto;
   right: 9%;
   width: auto;
   height: auto;
