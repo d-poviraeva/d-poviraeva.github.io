@@ -45,3 +45,15 @@ header a:hover{
     width: auto;
     height: auto;
     z-index: 3;
+}
+
+.por {
+     position: absolute;
+  left: 50%;
+  bottom: -3%;
+  transform: translateX(-18%);
+
+  width: min(54vw, 980px);
+  height: auto;
+  z-index: 2;
+}
