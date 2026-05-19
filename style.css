@@ -55,3 +55,12 @@ header a:hover{
   height: auto;
   z-index: 2;
 }
+
+.star {
+    position: absolute;
+    top: auto;
+    right: auto;
+    width: auto;
+    height: auto;
+    z-index: 4;
+}
