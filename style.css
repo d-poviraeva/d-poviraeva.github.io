@@ -42,7 +42,7 @@ header a:hover{
   position: absolute;
   top: 48%;
   right: 9%;
-  width: 550px;
+  width: auto;
   height: auto;
 
   z-index: 3;
