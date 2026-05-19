@@ -7,10 +7,10 @@ body {
 header{
     position:absolute;
     top:0;
-    left:100;
-    width:96%;
+    left:;
+    width:98%;
 
-    padding:20px 5px;
+    padding:20px 0px;
 
     display:flex;
     justify-content:space-between;
