@@ -4,4 +4,36 @@ body {
     background-attachment: fixed;
     background-size: cover;
     }
+header{
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
 
+    padding:20px 30px;
+
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+
+    font-size:14px;
+    letter-spacing:1px;
+}
+
+/* ссылки */
+header a{
+    color:black;
+    text-decoration:none;
+
+    opacity:0.8;
+    transition:0.2s;
+}
+
+header a:hover{
+    opacity:1;
+}
+
+/* правая группа ссылок */
+.right a{
+    margin-left:25px;
+}
