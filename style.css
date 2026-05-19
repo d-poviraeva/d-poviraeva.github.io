@@ -1,9 +1,7 @@
 body {
-    background-image: url("/home/ubuntu/d-poviraeva.github.io/d-poviraeva.github.io/bg.png");
+    background-image: url('https://psv4.userapi.com/s/v1/d2/mIEWGhv-xS4cTuRuF-lHAbowF1jYH0wQbgDVNz7nFGJcFRKwbwwC7xVFSpaLEjpwN_55gu-TfznBF3rj9TS__SOhAspvuha9ieTrrdE43TM49VdZsUybrJ0TGsCv3AR1zxvGJcl-qc5v/bg.png');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
     }
-h1{color: red; text-align: center}
-#fmf{color: green;}
-.facs{background-color: yellow;}
+
