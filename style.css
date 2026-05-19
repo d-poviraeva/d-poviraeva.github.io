@@ -38,3 +38,11 @@ header a:hover{
     margin-left:25px;
 }
 
+.tree {
+  position: absolute;
+  top: 48%;
+  right: 9%;
+  width: 145px;
+  height: auto;
+
+  z-index: 3;
